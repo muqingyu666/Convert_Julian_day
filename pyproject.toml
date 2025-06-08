@@ -1,0 +1,10 @@
+[project]
+name = "convert_julian_day"
+version = "0.1.0"
+description = "Convert Julian day numbers to UTC datetimes"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
